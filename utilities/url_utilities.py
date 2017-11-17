@@ -1,7 +1,7 @@
+import re
 import string
 from urllib.request import urlopen
 
-import re
 from bs4 import BeautifulSoup
 
 
